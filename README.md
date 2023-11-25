@@ -17,3 +17,7 @@ A Python-based movie recommendation system that utilizes sentiment analysis and 
 - Python
 - Pandas for data manipulation
 - TextBlob for sentiment analysis
+
+
+
+Feel free to explore and contribute to this open-source movie recommendation project!
